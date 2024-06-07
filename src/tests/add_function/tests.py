@@ -1,5 +1,4 @@
 import unittest
-from typing import Any
 from src.errors.add_function_errors.FuncName import Error as FuncNameError
 from src.errors.add_function_errors.FuncArgs import Error as FuncArgsError
 from src.vars.functions.func_vars import func_vars
